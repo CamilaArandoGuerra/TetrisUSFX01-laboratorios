@@ -1,0 +1,5 @@
+C:\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+C:\Nueva carpeta\TetrisUSFX01\Source\TetrisUSFX01\Cazador.h
+C:\Nueva carpeta\TetrisUSFX01\Source\TetrisUSFX01\Honda.h
+C:\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Honda.generated.h
+C:\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Cazador.generated.h

@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TetrisUSFX01.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E8DDB7D1-50CE-4FF8-8A65-0DB73326305B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TetrisUSFX01.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TetrisUSFX01Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{A28839B3-0981-492C-B7D7-2B10084C2253}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TetrisUSFX01">
+      <UniqueIdentifier>{15656018-55C3-4F65-975D-167CEE0794D7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Block.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Block.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\BlockExplosivo.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\BlockExplosivo.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\BlockHielo.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\BlockHielo.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\BlockMadera.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\BlockMadera.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\BlockMetal.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\BlockMetal.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\BlockPiedra.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\BlockPiedra.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Bloque.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Bloque.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\BloqueExplosivo.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\BloqueExplosivo.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\BloqueHielo.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\BloqueHielo.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\BloqueMadera.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\BloqueMadera.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\BloqueMetal.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\BloqueMetal.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\BloquePiedra.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\BloquePiedra.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Board.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Board.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\BuilderNivel.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\BuilderNivel.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Cazador.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Cazador.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\ConstructorNivel.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\ConstructorNivel.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\DirectorNivel.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\DirectorNivel.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\FloorPlan.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\FloorPlan.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Honda.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Honda.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Niveles.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Niveles.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Piece.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Piece.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Pieza.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Pieza.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PiezaEstructura.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PiezaEstructura.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PiezasBuilder.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PiezasBuilder.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Pistola.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Pistola.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TetrisUSFX01\TetrisUSFX01.Build.cs">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\TetrisUSFX01.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\TetrisUSFX01.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\TetrisUSFX01GameModeBase.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\TetrisUSFX01GameModeBase.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>

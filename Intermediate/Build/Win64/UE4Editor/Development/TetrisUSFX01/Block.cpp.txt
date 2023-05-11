@@ -1,0 +1,40 @@
+C:\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+C:\Nueva carpeta\TetrisUSFX01\Source\TetrisUSFX01\Block.h
+C:\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Block.generated.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\iostream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\istream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\ostream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\ios
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xlocnum
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cmath
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\iterator
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\iosfwd
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xutility
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\streambuf
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\share.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\system_error
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cerrno
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\stdexcept
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xmemory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\isa_availability.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xcall_once.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xerrc.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xlocale
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\memory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xfacet
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xlocinfo
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\__msvc_xlocinfo_types.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cctype
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\locale.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\string
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine/Private/VT/BlockCodingHelpers.cpp
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Private\VT\BlockCodingHelpers.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\Engine\Private\VT\VirtualTextureUploadCache.h
